@@ -38,4 +38,4 @@ The Sensei has put forth some conditions:
 Start now your assignment and save the Dojo.
 
 UML: https://drive.google.com/file/d/1p7ifmWGMLy_XjQEGVAWT3zY4XP0c302m/view?usp=sharing
-https://excalidraw.com/#json=AKxEg5NvfzKjp_Oc8rPPN,QvK-sRQG33E9_MWj7d0uAw
+Excalidraw: https://excalidraw.com/#json=x_nJZ2StdQq-r7hjsQCHC,EDyCLTVVOX5G2TAnR8xT8g (in case their is access issue with drawio)
